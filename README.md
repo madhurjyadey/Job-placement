@@ -1,4 +1,4 @@
-# Simple Job Placement Smart Contract
+# Simple Job Placement Smart Contract- Educhain
 
 ![image](https://github.com/user-attachments/assets/57c50f1c-b7bd-410a-adf1-1e0105001907)
 
