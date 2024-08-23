@@ -30,11 +30,10 @@ The Simple Job Placement Smart Contract aims to create a decentralized platform 
 ```
 
 ## Contract Address
-The smart contract is deployed on the Ethereum testnet (Rinkeby, Goerli, etc.). Please refer to the deployed contract address below:
+**Contract Address**: 0x074030ffbcf345fc3711d06458a4341febe1173b
 
-- **Contract Address**: 0x074030ffbcf345fc3711d06458a4341febe1173b
+  ![image](https://github.com/user-attachments/assets/0e8e1af7-c9b8-46b8-bb38-51951d105e94)
 
-  ![image](https://github.com/user-attachments/assets/f01a903a-f677-4688-a5b8-437c7451854d)
 
 
 ## Future Scope
